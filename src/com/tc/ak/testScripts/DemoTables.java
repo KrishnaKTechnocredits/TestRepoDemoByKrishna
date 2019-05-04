@@ -11,5 +11,6 @@ public class DemoTables {
 		System.out.println("In demotable");
 		System.out.println("git commit 1");
 		System.out.println("git commit 2");
+		System.out.println("git commit 3");
 	}
 }
