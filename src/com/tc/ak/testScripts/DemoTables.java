@@ -9,5 +9,6 @@ public class DemoTables {
 		
 		System.out.println("add");
 		System.out.println("In demotable");
+		System.out.println("git commit 1");
 	}
 }
